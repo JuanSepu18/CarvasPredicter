@@ -24,5 +24,7 @@ Optimizaciones:
 
 # Enlaces:
 Código: https://colab.research.google.com/drive/1lbtw-aAL2SnDqupqlwt-2gIjZw43osU5?usp=sharing
+
 Video: 
+
 Repositorio: https://github.com/JuanSepu18/CarvasPredicter
