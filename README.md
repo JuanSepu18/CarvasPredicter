@@ -1,5 +1,5 @@
 # CarvasPredicter
-<img src="banner.png">
+<img src="banner_proyecto.png">
 
 # Autores
 Valentina Álvarez, Luis Lemus, Andrés Olivar y Juan Sepúlveda.
